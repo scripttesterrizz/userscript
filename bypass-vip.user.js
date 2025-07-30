@@ -18,7 +18,7 @@
 // @match         *://luvsquad-links.com/*
 // @match         *://lootdest.org/*
 // @match         *://free-leaks.com/*
-// @match         *://goldmega.online/*
+// @match         *://https://ads.luarmor.net//*
 // @match         *://realiukzemydre.com/*
 // @match         *://kmendation.com/*
 // @match         *://lootlinks.co/*
